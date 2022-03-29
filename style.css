@@ -1,0 +1,35 @@
+body {
+
+
+background-color:#4A051C;
+
+
+}
+
+a:link{
+ color: black;
+
+}
+
+a:visited{
+ color: black;
+}
+
+a:hover{
+
+color:#ffffff;
+
+}
+img{
+border-color: #000000;
+border-width: 2px;
+border-style: solid;
+border-radius: 10%;
+}
+
+
+#homebar{
+
+background:#ffffff;
+
+}
