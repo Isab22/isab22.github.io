@@ -1,7 +1,7 @@
 body {
 
 
-background-color:#4A051C;
+background-color:#D0A98F;
 
 
 }
@@ -10,6 +10,8 @@ a:link{
  color: black;
 
 }
+
+
 
 a:visited{
  color: black;
@@ -30,6 +32,7 @@ border-radius: 10%;
 
 #homebar{
 
-background:#ffffff;
+background:#656839;
 
 }
+
